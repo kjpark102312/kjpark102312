@@ -7,6 +7,5 @@
 # Skills 👍
 
 ###  Languages
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#-#239120?style=flat&logo=CSharplogoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C#-#239120?style=flat&logo=csharplogoColor=white"/>
